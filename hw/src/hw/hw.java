@@ -4,7 +4,7 @@ public class hw {
 
 	public static void main(String[] args){
 		System.out.println("HW");
-		System.out.println("testing update!!");
+		
 		System.out.println("make some change");
 		System.out.println("4444");
 
